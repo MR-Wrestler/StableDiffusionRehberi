@@ -21,14 +21,3 @@ Realistik Foroğraf, Realistik Yüzler, Realistik Hayvanlar
 
 
 [![Kopyala Metin](https://img.shields.io/badge/Kopyala_Metin-%23ff69b4.svg?style=for-the-badge&logo=clipboard)](data:text/plain;charset=UTF-8,YOUR_TEXT_HERE)
-
-
-
-
-
-
-</aside>
-
-# ÖRNEK GÖRSELLER ve PROMPTLARI:
-
-# EKSTRA NOTLAR:
