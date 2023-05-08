@@ -3,8 +3,8 @@ Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiş
   <br />
   
   
-  Kurulumu öğrenmek için izle:
-    [Stable Diffusion Kurulum Rehberi - Mert Çobanov](https://youtu.be/vA83xrRB_KM)
+  Kurulumu öğrenmek için izle -->
+  [Stable Diffusion Kurulum Rehberi - Mert Çobanov](https://youtu.be/vA83xrRB_KM)
   
   
 - AUTOMATİC 1111 REHBERİ
