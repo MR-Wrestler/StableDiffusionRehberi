@@ -1,5 +1,5 @@
 <h1 align="center">StableDiffusionRehberi:</h1>
-Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiştir: <br />
+Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiştir ve derlenmeye devam edilecektir: <br />
   <br />
   
 - AUTOMATİC 1111 GUİDE
