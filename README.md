@@ -2,7 +2,7 @@
 Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiştir ve derlenmeye devam edilecektir: <br />
   <br />
   
-- AUTOMATİC 1111 GUİDE
+- AUTOMATİC 1111 REHBERİ
    - [text2image](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/AUTOMAT%C4%B0C1111%20GUIDE/txt2image.md)
 - Prompts
   - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Prompts/Prompt%20Kopyalama.md)
