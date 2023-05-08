@@ -8,10 +8,10 @@ Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiş
   
   
 - AUTOMATİC 1111 REHBERİ
-   - [text2image](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/AUTOMAT%C4%B0C1111%20GUIDE/txt2image.md)
-- Prompts
-  - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Prompts/Prompt%20Kopyalama.md)
-- Models
+   - [text2image](https://github.com/MR-Wrestler/StableDiffusionRehberi#txt2image)
+- Promptlar hakkında
+  - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#prompt-kopyalama)
+- Modeller hakkında
   - [Realistic Vision V2.0](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Models/Realistic%20Vision%20V2%200.md)
 
 
@@ -32,8 +32,11 @@ Kullanılan promplar ve çıktılarının yayınlandığı birçok site mevcuttu
     [Openart](https://openart.ai/discovery)
     [CivitAI](https://civitai.com/)
     [Stable Diffusion Art](https://stable-diffusion-art.com/prompts/) 
+    
     !!DİKKAT!!
     Bu sitelerdeki bazı resimler +18 içerikte olabilir.
+    
+- Bu sitelerdeki (özellikle CivitAI) görsellerin promptlarını hızlı bir şekilde kopyalamanın nasıl olduğunu öğrenmek isterseniz [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#prompt-kopyalama) yazıma bakabilirsiniz.
     
 - Stable Diffusion v2 ve daha üst versiyonlar telif hakları nedeniyle sanatçıların görsel modelleriyle beslenmeye kapatılmıştır. Yani “Greg Rutkowski tarzı çizim yap” şeklinde bir propmt girildiğinde devreye alınmkayacaktır. Ama daha alt versiyonlarda böyle bir sıkıntı yoktur.
 
@@ -129,6 +132,104 @@ Prompt kısmına ayrı bir rehber hazırlamayı düşünüyorum o yüzden şimdi
 
 Automatic 1111 Web arayüzünü kullanarak stable diffusion üzerinde ekstra kodlar çalıştırabilmenizi sağlar. 
 
-Scripler için de ayrı bir rehber hazırlamayı düşünüyorum linkini buraya ekleyeceğim.
-  
+Scripler için de ayrı bir rehber hazırlamayı düşünüyorum linkini buraya ekleyeceğim. 
+
+<br />
+  <br />
+
+
+
+
+# Prompt Kopyalama
+
+Eğer civitAI gibi sitelerden gördüğünüz promptları AUTOMATİC1111 arayüzüne kolayca kopyalamak istiyorsanız takip etmeniz gereken adımlar oldukça basit
+
+![RObocat CivitAI](https://i.imgur.com/wNLFPmf.png)  
+
+
+
+Seçtiğiniz görsele ait promptu kopyalamalısınız. 
+
+CivitAI sitesindeki bir görselin oluşturma datasını (Prompt, Negative prompt, Model, GFC Scale, Steps vb bilgiler) kopylamak için görselin sayfasında sağ taraftaki bölümün altında yer alan **Copy Generation Data butonunu kullanmalısınız.**
+
+([yukarıdaki sayfa](https://civitai.com/images/150224?modelVersionId=15236&prioritizedUserIds=4055&period=AllTime&sort=Most+Reactions&limit=20))
+
+![Step2](https://i.imgur.com/X0U8PyC.png)
+
+- AUTOMATİC 1111 arayüzünü çalıştırın.
+- **Stable Diffusion Checkpoint** kısmından modelinizi ayarlayın.
+- Prompt kısmına kopyaladığınız datayı yapıştırın.
+- Generate butonunun altındaki mavi simgeye tıklayın ve sihir gerçekleşsinnn.
+
+![Step3](https://i.imgur.com/CSrggiw.png)
+
+Gördüğünüz gibi bütün parametreler kopyaladığınız dataya göre biçimlendi.
+
+- Generate tuşuna bastığınızda hedef görselin aynısı sizde de oluşacaktır.
+
+## SONUÇ:
+
+![Final](https://i.imgur.com/wBtIMcK.png)
+
+
+<br />
+  <br />
+
+
+
+
+
+
+# Realistic Vision V2.0
+
+## LİNKLER:
+
+### [CİVİTAI](https://civitai.com/models/4201/realistic-vision-v20)  ,  [HUGGİNG FACE](https://huggingface.co/SG161222/Realistic_Vision_V2.0)
+
+## Öne Çıktığı Oluşturma Tİpleri:
+
+Realistik Foroğraf, Realistik Yüzler, Realistik Hayvanlar 
+
+## İyi Çalışması Için Eklenmesi Tavsiye Edilen Promptlar:
+
+```markdown
+RAW photo, *subject*, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
+```
+
+## İyi Çalışması Için Eklenmesi Tavsiye Edilen Negatif Promptlar:
+
+```markdown
+(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up,
+cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers,
+mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy,bad proportions,
+extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs,extra arms, extra legs,
+fused fingers, too many fingers, long neck
+```
+
+## ÖRNEK GÖRSELLER ve PROMPTLARI:
+
+Görselin sayfasına [buradan](https://civitai.com/images/333323?modelVersionId=29460&prioritizedUserIds=26957&period=AllTime&sort=Most+Reactions&limit=20) ulaşabilirsiniz.
+
+promptları tam olarak kopyalamak için [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Prompts/Prompt%20Kopyalama.md) yazıma bakabilirsiniz.
+
+### Promptlar:
+
+```markdown
+b&w photo of 42 y.o man in black clothes, bald, face, half body, body, high detailed skin, 
+skin pores, coastline, overcast weather, wind, waves, 8k uhd, dslr, soft lighting, 
+high quality, film grain, Fujifilm XT3
+```
+
+### Negatif Promptlar:
+
+```markdown
+(semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up,
+cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, 
+morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, 
+mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, 
+cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, 
+extra arms, extra legs, fused fingers, too many fingers, long neck
+```
+
+![https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/393713d6-c943-4c6a-7247-ad5f03583200/width=576/333323.jpeg](https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/393713d6-c943-4c6a-7247-ad5f03583200/width=576/333323.jpeg)
   
