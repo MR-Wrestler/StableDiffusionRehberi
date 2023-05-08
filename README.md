@@ -10,9 +10,9 @@ Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiş
 - AUTOMATİC 1111 REHBERİ
    - [text2image](https://github.com/MR-Wrestler/StableDiffusionRehberi#txt2image)
 - Promptlar hakkında
-  - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#prompt-kopyalama)
+  - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi#prompt)
 - Modeller hakkında
-  - [Realistic Vision V2.0](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#realistic-vision-v20)
+  - [Realistic Vision V2.0](https://github.com/MR-Wrestler/StableDiffusionRehberi#realistic-vision-v20)
 
 
 
