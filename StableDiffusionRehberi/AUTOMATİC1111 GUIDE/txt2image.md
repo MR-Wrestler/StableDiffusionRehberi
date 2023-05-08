@@ -1,4 +1,4 @@
-2i# txt2image (md)
+# txt2image
 
 ![text2image](https://i.imgur.com/8D5GGIO.png)
 
