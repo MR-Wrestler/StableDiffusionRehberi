@@ -1,6 +1,6 @@
-# txt2image (md)
+2i# txt2image (md)
 
-![Untitled](txt2image%20(md)%2014a85b339cb04b1491c05773320ae958/Untitled.png)
+![text2image](https://i.imgur.com/8D5GGIO.png)
 
 ## Prompt:
 
