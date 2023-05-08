@@ -1,4 +1,4 @@
-<h1 align="center">StableDiffusionRehberi:</h1>
+<h1 align="center">Stable Diffusion Rehberi:</h1>
 Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiştir ve derlenmeye devam edilecektir: <br />
   <br />
   
