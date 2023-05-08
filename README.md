@@ -12,7 +12,7 @@ Bu repository Stable Diffusion öğrenirken çıkardığım notlardan derlenmiş
 - Promptlar hakkında
   - [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#prompt-kopyalama)
 - Modeller hakkında
-  - [Realistic Vision V2.0](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Models/Realistic%20Vision%20V2%200.md)
+  - [Realistic Vision V2.0](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#realistic-vision-v20)
 
 
 
