@@ -26,6 +26,10 @@ fused fingers, too many fingers, long neck
 
 ## ÖRNEK GÖRSELLER ve PROMPTLARI:
 
+Görselin sayfasına [buradan](https://civitai.com/images/333323?modelVersionId=29460&prioritizedUserIds=26957&period=AllTime&sort=Most+Reactions&limit=20) ulaşabilirsiniz.
+
+promptları tam olarak kopyalamak için [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Prompts/Prompt%20Kopyalama.md) yazıma bakabilirsiniz.
+
 ### Promptlar:
 
 ```markdown
