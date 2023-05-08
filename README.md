@@ -36,7 +36,7 @@ Kullanılan promplar ve çıktılarının yayınlandığı birçok site mevcuttu
     !!DİKKAT!!
     Bu sitelerdeki bazı resimler +18 içerikte olabilir.
     
-- Bu sitelerdeki (özellikle CivitAI) görsellerin promptlarını hızlı bir şekilde kopyalamanın nasıl olduğunu öğrenmek isterseniz [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/edit/main/README.md#prompt-kopyalama) yazıma bakabilirsiniz.
+- Bu sitelerdeki (özellikle CivitAI) görsellerin promptlarını hızlı bir şekilde kopyalamanın nasıl olduğunu öğrenmek isterseniz [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi#prompt-kopyalama) yazıma bakabilirsiniz.
     
 - Stable Diffusion v2 ve daha üst versiyonlar telif hakları nedeniyle sanatçıların görsel modelleriyle beslenmeye kapatılmıştır. Yani “Greg Rutkowski tarzı çizim yap” şeklinde bir propmt girildiğinde devreye alınmkayacaktır. Ama daha alt versiyonlarda böyle bir sıkıntı yoktur.
 
@@ -210,7 +210,7 @@ fused fingers, too many fingers, long neck
 
 Görselin sayfasına [buradan](https://civitai.com/images/333323?modelVersionId=29460&prioritizedUserIds=26957&period=AllTime&sort=Most+Reactions&limit=20) ulaşabilirsiniz.
 
-promptları tam olarak kopyalamak için [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi/blob/main/StableDiffusionRehberi/Prompts/Prompt%20Kopyalama.md) yazıma bakabilirsiniz.
+promptları tam olarak kopyalamak için [Prompt Kopyalama](https://github.com/MR-Wrestler/StableDiffusionRehberi#prompt) yazıma bakabilirsiniz.
 
 ### Promptlar:
 
