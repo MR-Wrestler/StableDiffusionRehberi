@@ -1,4 +1,4 @@
-# Realistic Vision V2.0 (md)
+# Realistic Vision V2.0
 
 ## LİNKLER:
 
